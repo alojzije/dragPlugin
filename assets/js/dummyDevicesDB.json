@@ -1,0 +1,99 @@
+{
+    "devices": [{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "android",
+        "icon": "./assets/images/mob_icon.svg"
+    }, {
+        "name": "iphone",
+        "icon": "./assets/images/mob_icon.svg"
+    },{
+        "name": "Nokia 3310",
+        "icon": "./assets/images/mob_icon.svg"
+    }]
+}

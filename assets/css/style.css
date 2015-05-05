@@ -1,0 +1,25 @@
+#devicesContainer{
+	margin: 20px auto;
+	*max-width: 800px;
+	height: 200px;
+	overflow: hidden;
+	overflow-x: scroll;
+	
+}
+#devicesList  {
+	list-style-type: none;
+	padding: 0 ;
+}
+#devicesList li{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+
+}
+#devicesList li figure{
+	margin: 0;
+	padding: 10px ;
+	width: 65px;
+}
+
+
